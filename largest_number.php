@@ -1,9 +1,12 @@
-
-<?php
-
-$num1 = 10;
-$num2 = 15;
+           
+<?php                   //finding largest number
+                    
+                    //variable initialize 
+$num1 = 4;
+$num2 = 5;
 $num3 = 6;
+
+                   //checking using if else  & printing output
 
 if ($num1 > $num2) {
     if ($num1 > $num3) {
@@ -20,3 +23,7 @@ if ($num1 > $num2) {
         echo "The largest number is  $num3 ";
     }
 }
+
+
+
+// By shakil Khan
